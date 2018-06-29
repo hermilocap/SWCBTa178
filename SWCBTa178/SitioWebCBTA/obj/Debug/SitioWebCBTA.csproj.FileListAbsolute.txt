@@ -1,0 +1,30 @@
+C:\Users\hermilocap\Documents\Visual Studio 2012\Projects\SitioWebCBTA\SitioWebCBTA\bin\SitioWebCBTA.dll
+C:\Users\hermilocap\Documents\Visual Studio 2012\Projects\SitioWebCBTA\SitioWebCBTA\bin\SitioWebCBTA.pdb
+C:\Users\hermilocap\Documents\Visual Studio 2012\Projects\SitioWebCBTA\SitioWebCBTA\obj\Debug\SitioWebCBTA.csprojResolveAssemblyReference.cache
+C:\Users\hermilocap\Documents\Visual Studio 2012\Projects\SitioWebCBTA\SitioWebCBTA\obj\Debug\SitioWebCBTA.dll
+C:\Users\hermilocap\Documents\Visual Studio 2012\Projects\SitioWebCBTA\SitioWebCBTA\obj\Debug\SitioWebCBTA.pdb
+C:\Users\Ligth\Documents\Visual Studio 2012\Projects\SitioWebCBTA\SitioWebCBTA\bin\SitioWebCBTA.dll
+C:\Users\Ligth\Documents\Visual Studio 2012\Projects\SitioWebCBTA\SitioWebCBTA\bin\SitioWebCBTA.pdb
+C:\Users\Ligth\Documents\Visual Studio 2012\Projects\SitioWebCBTA\SitioWebCBTA\obj\Debug\SitioWebCBTA.csprojResolveAssemblyReference.cache
+C:\Users\Ligth\Documents\Visual Studio 2012\Projects\SitioWebCBTA\SitioWebCBTA\obj\Debug\SitioWebCBTA.dll
+C:\Users\Ligth\Documents\Visual Studio 2012\Projects\SitioWebCBTA\SitioWebCBTA\obj\Debug\SitioWebCBTA.pdb
+C:\Users\Uriel\Documents\Visual Studio 2012\Projects\SitioWebCBTA\SitioWebCBTA\bin\SitioWebCBTA.dll
+C:\Users\Uriel\Documents\Visual Studio 2012\Projects\SitioWebCBTA\SitioWebCBTA\bin\SitioWebCBTA.pdb
+C:\Users\Uriel\Documents\Visual Studio 2012\Projects\SitioWebCBTA\SitioWebCBTA\obj\Debug\SitioWebCBTA.csprojResolveAssemblyReference.cache
+C:\Users\Uriel\Documents\Visual Studio 2012\Projects\SitioWebCBTA\SitioWebCBTA\obj\Debug\SitioWebCBTA.dll
+C:\Users\Uriel\Documents\Visual Studio 2012\Projects\SitioWebCBTA\SitioWebCBTA\obj\Debug\SitioWebCBTA.pdb
+C:\Users\Milo\Desktop\cbta\SitioWebCBTA00\SitioWebCBTA\SitioWebCBTA\bin\SitioWebCBTA.dll
+C:\Users\Milo\Desktop\cbta\SitioWebCBTA00\SitioWebCBTA\SitioWebCBTA\bin\SitioWebCBTA.pdb
+C:\Users\Milo\Desktop\cbta\SitioWebCBTA00\SitioWebCBTA\SitioWebCBTA\obj\Debug\SitioWebCBTA.csprojResolveAssemblyReference.cache
+C:\Users\Milo\Desktop\cbta\SitioWebCBTA00\SitioWebCBTA\SitioWebCBTA\obj\Debug\SitioWebCBTA.dll
+C:\Users\Milo\Desktop\cbta\SitioWebCBTA00\SitioWebCBTA\SitioWebCBTA\obj\Debug\SitioWebCBTA.pdb
+C:\Users\Ligth\Documents\Visual Studio 2012\Projects\SW CBTa178\SitioWebCBTA\bin\SitioWebCBTA.dll
+C:\Users\Ligth\Documents\Visual Studio 2012\Projects\SW CBTa178\SitioWebCBTA\bin\SitioWebCBTA.pdb
+C:\Users\Ligth\Documents\Visual Studio 2012\Projects\SW CBTa178\SitioWebCBTA\obj\Debug\SitioWebCBTA.csprojResolveAssemblyReference.cache
+C:\Users\Ligth\Documents\Visual Studio 2012\Projects\SW CBTa178\SitioWebCBTA\obj\Debug\SitioWebCBTA.dll
+C:\Users\Ligth\Documents\Visual Studio 2012\Projects\SW CBTa178\SitioWebCBTA\obj\Debug\SitioWebCBTA.pdb
+C:\Users\hermilocap\Desktop\SW CBTa178\SitioWebCBTA\bin\SitioWebCBTA.dll
+C:\Users\hermilocap\Desktop\SW CBTa178\SitioWebCBTA\bin\SitioWebCBTA.pdb
+C:\Users\hermilocap\Desktop\SW CBTa178\SitioWebCBTA\obj\Debug\SitioWebCBTA.csprojResolveAssemblyReference.cache
+C:\Users\hermilocap\Desktop\SW CBTa178\SitioWebCBTA\obj\Debug\SitioWebCBTA.dll
+C:\Users\hermilocap\Desktop\SW CBTa178\SitioWebCBTA\obj\Debug\SitioWebCBTA.pdb
